@@ -2,6 +2,8 @@
 
 A compact Shiny app for finding potential eBird lifers around Portland, Oregon. It compares recent public-hotspot reports with an exported eBird life list.
 
+**Live app:** https://019ee69b-b850-606f-887b-cb5edea7da23.share.connect.posit.cloud/
+
 ## Features
 
 - Searches the previous 24 hours, two days, or three days.
