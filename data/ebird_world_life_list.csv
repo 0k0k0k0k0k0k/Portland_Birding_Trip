@@ -1,353 +1,361 @@
 Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
-1,32310,species,House Finch,Haemorhous mexicanus,1,Cedarbrook Lodge,US-WA,19 Feb 2026,L58764092,S302318788,,1
-2,28249,species,Varied Thrush,Ixoreus naevius,3,Cedarbrook Lodge,US-WA,19 Feb 2026,L58764092,S302318788,,1
-3,33386,species,Spotted Towhee,Pipilo maculatus,2,Cedarbrook Lodge,US-WA,18 Feb 2026,L58764092,S301980939,,1
-4,27288,species,Pacific Wren,Troglodytes pacificus,1,Cedarbrook Lodge,US-WA,18 Feb 2026,L58764092,S301980939,,1
-5,27362,species,Bewick's Wren,Thryomanes bewickii,1,Cedarbrook Lodge,US-WA,17 Feb 2026,L58764092,S301792625,,1
-6,25253,species,Bushtit,Psaltriparus minimus,3,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
-7,4814,species,Anna's Hummingbird,Calypte anna,2,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
-8,748,species,Barrow's Goldeneye,Bucephala islandica,9,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
-9,727,species,Harlequin Duck,Histrionicus histrionicus,8,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
-10,27668,species,American Dipper,Cinclus mexicanus,2,Issaquah Salmon Hatchery,US-WA,16 Feb 2026,L8102503,S301600798,,1
-11,6596,species,Glaucous-winged Gull,Larus glaucescens,4,Issaquah Salmon Hatchery,US-WA,16 Feb 2026,L8102503,S301600798,,1
-12,22094,species,Chestnut-backed Chickadee,Poecile rufescens,1,Seward Park,US-WA,16 Feb 2026,L195645,S301600392,,1
-13,19204,species,Hutton's Vireo,Vireo huttoni,1,Seward Park,US-WA,16 Feb 2026,L195645,S301600392,,1
-14,21301,species,Florida Scrub-Jay,Aphelocoma coerulescens,10,Oscar Scherer SP,US-FL,26 Dec 2025,L127350,S290442724,,1
-15,8064,species,Golden Eagle,Aquila chrysaetos,1,Burke's Garden,US-VA,05 Oct 2025,L718354,S277646255,,1
-16,9133,species,Burrowing Owl,Athene cunicularia,6,Rotunda Meadows Prairie,US-FL,22 Apr 2025,L8957295,S228381185,,1
-17,11962,species,Crested Caracara,Caracara plancus,1,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
-18,5533,species,Gray-headed Swamphen,Porphyrio poliocephalus,4,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,N,1
-19,5515,species,Purple Gallinule,Porphyrio martinica,5,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
-21,243,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,10,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
-22,13128,species,Nanday Parakeet,Aratinga nenday,9,"1117 Pinellas Bayway S, Saint Petersburg US-FL (27.6759,-82.7256)",US-FL,15 Apr 2025,L42719687,S225978299,N,1
-24,33222,species,Seaside Sparrow,Ammospiza maritima,2,Tangier Island,US-VA,12 Jul 2024,L718758,S186665319,,1
-25,33957,species,Blue-winged Warbler,Vermivora cyanoptera,1,Sunset Hollow,US-VA,02 Jun 2024,L32782310,S179075332,,1
-26,16952,species,Willow Flycatcher,Empidonax traillii,1,Bent Mountain Center (formerly Bent Mountain Elementary School),US-VA,25 May 2024,L718323,S177132255,,1
-27,28321,species,Bicknell's Thrush,Catharus bicknelli,1,Tidewater Arboretum (Virginia Tech Display Gardens),US-VA,18 May 2024,L9397150,S175274194,,1
-28,33972,species,Tennessee Warbler,Leiothlypis peregrina,1,Paul State Forest,US-VA,12 May 2024,L718652,S173932719,,1
-29,33956,species,Golden-winged Warbler,Vermivora chrysoptera,1,Bramble Hill,US-VA,11 May 2024,L14655306,S173435792,,1
-30,33964,species,Swainson's Warbler,Limnothlypis swainsonii,1,Little Stony National Recreation Area,US-VA,04 May 2024,L718574,S172054218,,1
-31,32498,species,Red Crossbill,Loxia curvirostra,1,Montebello Area,US-VA,12 Jan 2024,L718606,S158727674,,1
-32,33310,species,Lincoln's Sparrow,Melospiza lincolnii,1,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
-33,33187,species,White-crowned Sparrow,Zonotrichia leucophrys,2,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
-34,17323,species,Ash-throated Flycatcher,Myiarchus cinerascens,1,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
-35,12114,species,Peregrine Falcon,Falco peregrinus,1,Chesapeake Bay Bridge-Tunnel (Northampton Co.),US-VA,02 Dec 2023,L718370,S155591825,,1
-36,6207,species,Purple Sandpiper,Calidris maritima,3,CBBT--North Chesapeake Island (#4),US-VA,02 Dec 2023,L132239,S155591278,,1
-37,737,species,Black Scoter,Melanitta americana,3,CBBT--North Chesapeake Island (#4),US-VA,02 Dec 2023,L132239,S155591278,,1
-39,8479,species,Broad-winged Hawk,Buteo platypterus,1,"Raymond R. ""Andy"" Guest Jr. Shenandoah River State Park",US-VA,11 Jul 2023,L418815,S144312436,,1
-40,1283,species,Ruffed Grouse,Bonasa umbellus,5,Briery Branch Gap,US-VA,15 Jun 2023,L4225264,S141856481,,1
-41,34006,species,Mourning Warbler,Geothlypis philadelphia,1,Paddy Knob Lookout,US-WV,13 Jun 2023,L718647,S141567263,,1
-42,33564,species,Bobolink,Dolichonyx oryzivorus,,Powhatan State Park,US-VA,10 May 2023,L1085755,S136926420,,1
-43,6064,species,American Woodcock,Scolopax minor,3,Chesterfield State Forest,US-VA,19 Apr 2023,L23696409,S134295770,,1
-44,6606,species,Iceland Gull,Larus glaucoides,1,Leeward Marina,US-VA,07 Apr 2023,L23483189,S133172407,,1
-45,6227,species,Pectoral Sandpiper,Calidris melanotos,1,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
-46,6061,species,Long-billed Dowitcher,Limnodromus scolopaceus,3,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
-47,5770,species,Black-necked Stilt,Himantopus mexicanus,1,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
-48,7560,species,American Bittern,Botaurus lentiginosus,1,Princess Anne WMA--Whitehurst Tract,US-VA,06 Apr 2023,L473385,S132850574,,1
-49,33221,species,LeConte's Sparrow,Ammospiza leconteii,1,**Back Bay NWR,US-VA,05 Apr 2023,L718307,S132817533,,1
-50,27303,species,Sedge Wren,Cistothorus stellaris,1,**Back Bay NWR,US-VA,05 Apr 2023,L718307,S132817533,,1
-52,7791,species,American White Pelican,Pelecanus erythrorhynchos,50,Hog Island WMA,US-VA,09 Oct 2022,L718515,S120351263,,1
-53,6718,species,Caspian Tern,Hydroprogne caspia,3,Hog Island WMA,US-VA,09 Oct 2022,L718515,S120351263,,1
-55,32943,species,Grasshopper Sparrow,Ammodramus savannarum,1,"stakeout Scissor-tailed Flycatcher, Leedstown Road (2022)",US-VA,17 Jun 2022,L19488644,S113143186,,1
-56,17489,species,Scissor-tailed Flycatcher,Tyrannus forficatus,1,"stakeout Scissor-tailed Flycatcher, Leedstown Road (2022)",US-VA,17 Jun 2022,L19488644,S113143186,,1
-57,24281,species,Cliff Swallow,Petrochelidon pyrrhonota,50,Watkins Bridge Boat Ramp,US-VA,24 Apr 2022,L718723,S107938500,,1
-58,6462,species,Bonaparte's Gull,Chroicocephalus philadelphia,5,Goose Point Recreation Area,US-VA,07 Apr 2022,L718434,S106470204,,1
-59,11426,species,Red-cockaded Woodpecker,Leuconotopicus borealis,4,Big Woods WMA,US-VA,20 Mar 2022,L2908444,S105256365,,1
-60,31883,species,American Pipit,Anthus rubescens,1,Mason Neck SP--Visitors Center,US-VA,13 Mar 2022,L521963,S104745644,,1
-62,22710,species,Horned Lark,Eremophila alpestris,2,Curles Neck Farm (restricted access),US-VA,27 Feb 2022,L1810089,S103874361,,1
-63,8324,species,Northern Harrier,Circus hudsonius,1,Curles Neck Farm (restricted access),US-VA,27 Feb 2022,L1810089,S103874361,,1
-64,741,species,Long-tailed Duck,Clangula hyemalis,2,Grandview Nature Preserve,US-VA,26 Feb 2022,L718480,S103873420,,1
-65,666,species,Canvasback,Aythya valisineria,,York River State Park,US-VA,19 Feb 2022,L718829,S103030582,,1
-66,6512,species,Heermann's Gull,Larus heermanni,1,Hopewell City Marina,US-VA,11 Feb 2022,L5106232,S102447217,,1
-67,17467,species,Western Kingbird,Tyrannus verticalis,1,James River Park--Huguenot Flatwater,US-VA,11 Feb 2022,L2403273,S102447239,,1
-70,512,species,Eurasian Wigeon,Mareca penelope,1,"First Overlook, Henricus Park Road",US-VA,13 Jan 2021,L13265087,S79202815,,1
-71,32085,species,Evening Grosbeak,Hesperiphona vespertina,4,James River Park--Pony Pasture,US-VA,01 Jan 2021,L3542266,S78424594,,1
-72,34083,species,Bay-breasted Warbler,Setophaga castanea,1,Echo Lake Corner 1,US-VA,19 May 2020,L4556911,S69321413,,1
-76,6927,species,Red-throated Loon,Gavia stellata,1,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052665,,1
-77,728,species,Surf Scoter,Melanitta perspicillata,75,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052665,,1
-78,8388,species,Mississippi Kite,Ictinia mississippiensis,2,6 Worthington Ct,US-AR,09 Aug 2019,L9768923,S58858995,,1
-79,32483,species,Redpoll,Acanthis flammea,1,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
-80,6933,species,Common Loon,Gavia immer,2,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
-81,6138,species,Common Redshank,Tringa totanus,5,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
-82,5812,species,European Golden-Plover,Pluvialis apricaria,2,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
-84,7397,species,Great Cormorant,Phalacrocorax carbo,2,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-85,7333,species,Northern Gannet,Morus bassanus,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-86,7220,species,Manx Shearwater,Puffinus puffinus,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-87,7046,species,European Storm-Petrel,Hydrobates pelagicus,4,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-88,6449,species,Black-legged Kittiwake,Rissa tridactyla,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-89,6424,species,Common Murre,Uria aalge,3,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-90,6379,species,Atlantic Puffin,Fratercula arctica,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-91,6361,species,Parasitic Jaeger,Stercorarius parasiticus,2,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
-92,7090,species,Northern Fulmar,Fulmarus glacialis,4,Reykjavíkurhöfn (harbour),IS-1,17 Jul 2019,L1104110,S58674293,,1
-93,715,species,Common Eider,Somateria mollissima,8,Reykjavíkurhöfn (harbour),IS-1,17 Jul 2019,L1104110,S58674293,,1
-94,31853,species,Meadow Pipit,Anthus pratensis,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
-95,27813,species,European Starling,Sturnus vulgaris,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
-96,6121,species,Red-necked Phalarope,Phalaropus lobatus,1,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
-97,6099,species,Common Snipe,Gallinago gallinago,1,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
-98,5831,species,Common Ringed Plover,Charadrius hiaticula,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
-99,31720,species,White Wagtail,Motacilla alba,3,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-100,28497,species,Redwing,Turdus iliacus,5,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-101,6733,species,Arctic Tern,Sterna paradisaea,,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-102,6545,species,European Herring Gull,Larus argentatus,1,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-103,6474,species,Black-headed Gull,Chroicocephalus ridibundus,,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-104,1853,species,Rock Pigeon,Columba livia,7,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-105,687,species,Tufted Duck,Aythya fuligula,15,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-106,390,species,Whooper Swan,Cygnus cygnus,1,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-107,275,species,Graylag Goose,Anser anser,30,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
-108,3492,species,Common Nighthawk,Chordeiles minor,1,The Diamond,US-VA,17 May 2019,L4624463,S56426694,,1
-111,3614,species,Eastern Whip-poor-will,Antrostomus vociferus,6,Sherando Lake,US-VA,25 Jun 2018,L718730,S46889585,,1
-112,34061,species,Cerulean Warbler,Setophaga cerulea,11,Peaks of Otter Recreation Area,US-VA,20 Jun 2018,L718653,S46890157,,1
-113,34346,species,Wilson's Warbler,Cardellina pusilla,2,Echo Lake Park,US-VA,12 May 2018,L246152,S45610294,,1
-114,11145,species,Red-headed Woodpecker,Melanerpes erythrocephalus,3,Deep Run Park,US-VA,09 May 2018,L246147,S45610384,,1
-115,34060,species,Cape May Warbler,Setophaga tigrina,1,Cheswick Park,US-VA,08 May 2018,L2823311,S45471071,,1
-116,331,species,Cackling Goose,Branta hutchinsii,7,Swan Lake/Shields Lake,US-VA,17 Dec 2017,L2182364,S41156218,,1
-117,700,species,Lesser Scaup,Aythya affinis,2,Sleep Inn Ponds,US-VA,05 Dec 2017,L4280384,S40928253,,1
-118,314,species,Brant,Branta bernicla,1,Walmart Ponds (Colonial Heights),US-VA,05 Dec 2017,L736979,S40923976,,1
-120,8866,species,Eastern Screech-Owl,Megascops asio,2,Great Dismal Swamp NWR--Lake Drummond,US-VA,23 Sep 2017,L771078,S39393629,,1
-121,16949,species,Yellow-bellied Flycatcher,Empidonax flaviventris,1,Powhatan State Park,US-VA,11 Sep 2017,L1085755,S39131742,,1
-122,3896,species,Chimney Swift,Chaetura pelagica,9,Echo Lake Corner 1,US-VA,05 Aug 2017,L4556911,S38486816,,1
-123,1026,species,Northern Bobwhite,Colinus virginianus,1,Powhatan State Park,US-VA,28 Jun 2017,L1085755,S37867507,,1
-124,33559,species,Yellow-breasted Chat,Icteria virens,2,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
-125,17494,species,Fork-tailed Flycatcher,Tyrannus savana,1,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
-126,7565,species,Least Bittern,Botaurus exilis,2,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
-127,34079,species,Magnolia Warbler,Setophaga magnolia,1,Grayson Highlands State Park Twin Pinnacles Trail,US-VA,28 May 2017,L5907662,S37448143,,1
-128,16963,species,Least Flycatcher,Empidonax minimus,1,Grayson Highlands Hickory Ridge Campground Group Site,US-VA,27 May 2017,L5907562,S37448658,,1
-129,34344,species,Canada Warbler,Cardellina canadensis,1,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,16 May 2017,L207180,S36969426,,1
-130,33568,species,Eastern Meadowlark,Sturnella magna,1,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,16 May 2017,L207180,S36969426,,1
-131,5671,species,Limpkin,Aramus guarauna,5,Lettuce Lake County Park,US-FL,17 Apr 2017,L127337,S36091358,,1
-132,6192,species,Dunlin,Calidris alpina,,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
-133,6166,species,Red Knot,Calidris canutus,,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
-134,5799,species,American Oystercatcher,Haematopus palliatus,2,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
-135,6104,species,Wilson's Snipe,Gallinago delicata,1,Possum Branch Preserve,US-FL,17 Apr 2017,L1015140,S36068194,,1
-137,7306,species,Wood Stork,Mycteria americana,20,Embassy Drive Rookery,US-FL,14 Apr 2017,L2617326,S36023113,,1
-138,34057,species,Hooded Warbler,Setophaga citrina,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
-139,33950,species,Worm-eating Warbler,Helmitheros vermivorum,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
-140,19226,species,Blue-headed Vireo,Vireo solitarius,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
-141,12819,species,Monk Parakeet,Myiopsitta monachus,2,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,N,1
-142,7600,species,Black-crowned Night Heron,Nycticorax nycticorax,1,Gulf Harbors Golf Course (NOW CLOSED),US-FL,12 Apr 2017,L1516961,S35911078,,1
-143,27329,species,Marsh Wren,Cistothorus palustris,2,Boy Scout Preserve (Green Key Rd),US-FL,12 Apr 2017,L1427496,S35910741,,1
-144,5276,species,Clapper Rail,Rallus crepitans,1,Boy Scout Preserve (Green Key Rd),US-FL,12 Apr 2017,L1427496,S35910741,,1
-145,2389,species,White-winged Dove,Zenaida asiatica,1,Robert K. Rees Memorial Park,US-FL,11 Apr 2017,L127314,S35892128,,1
-146,34432,species,Summer Tanager,Piranga rubra,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,,1
-147,19220,species,Yellow-throated Vireo,Vireo flavifrons,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,,1
-148,1573,species,Indian Peafowl,Pavo cristatus,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,P,1
-149,7921,species,Swallow-tailed Kite,Elanoides forficatus,1,The Preserves at Fairway Oaks,US-FL,09 Apr 2017,L3036414,S35825510,,1
-150,9219,species,Barred Owl,Strix varia,2,Cheswick Park,US-VA,30 Mar 2017,L2823311,S35549449,,1
-151,34171,species,Yellow-throated Warbler,Setophaga dominica,1,Camp Skimino (Restricted Access),US-VA,25 Mar 2017,L5612432,S35411790,,1
-152,33095,species,American Tree Sparrow,Spizelloides arborea,5,Rocky River Reservation--Nature Center Trails,US-OH,19 Feb 2017,L805099,S34534658,,1
-153,12028,species,American Kestrel,Falco sparverius,1,"Wendy Park, Whiskey Island",US-OH,17 Feb 2017,L284586,S34639949,,1
-154,770,species,Red-breasted Merganser,Mergus serrator,3,"Wendy Park, Whiskey Island",US-OH,17 Feb 2017,L284586,S34639949,,1
-155,762,species,Common Merganser,Mergus merganser,4,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
-156,743,species,Common Goldeneye,Bucephala clangula,2,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
-157,694,species,Greater Scaup,Aythya marila,1,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
-158,6576,species,Lesser Black-backed Gull,Larus fuscus,5,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
-159,6566,species,Glaucous Gull,Larus hyperboreus,1,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
-160,6562,species,Great Black-backed Gull,Larus marinus,20,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
-161,6539,species,American Herring Gull,Larus smithsonianus,,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
-162,34621,species,Painted Bunting,Passerina ciris,1,James River Park--Belle Isle,US-VA,02 Feb 2017,L618942,S34119885,,1
-163,667,species,Redhead,Aythya americana,1,Mid-Lothian Mines Park--Loch Lothian,US-VA,28 Jan 2017,L2462917,S34017426,,1
-164,594,species,Northern Pintail,Anas acuta,,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,28 Jan 2017,L207180,S34017151,,1
-166,267,species,Snow Goose,Anser caerulescens,,Turkey Island Road,US-VA,28 Jan 2017,L2438994,S34016554,,1
-170,3594,species,Chuck-will's-widow,Antrostomus carolinensis,1,Camp T. Brady Saunders (Restricted Access),US-VA,14 May 2016,L4605450,S29686563,,1
-171,33962,species,Black-and-white Warbler,Mniotilta varia,1,Echo Lake Corner 1,US-VA,02 May 2016,L4556911,S29361469,,1
-172,7533,species,Roseate Spoonbill,Platalea ajaja,1,Anclote Key Preserve SP--North end of Anclote Key,US-FL,21 Aug 2015,L687592,S24713550,,1
-173,5941,species,Snowy Plover,Anarhynchus nivosus,5,Anclote Key Preserve SP--North end of Anclote Key,US-FL,21 Aug 2015,L687592,S24713550,,1
-174,6154,species,Greater Yellowlegs,Tringa melanoleuca,1,Glen Allen High School,US-VA,04 Jun 2015,L2751529,S23848012,,1
-175,34087,species,Northern Yellow Warbler,Setophaga aestiva,1,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-176,33848,species,Rusty Blackbird,Euphagus carolinus,15,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-177,33770,species,Baltimore Oriole,Icterus galbula,2,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-178,24051,species,Bank Swallow,Riparia riparia,5,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-179,22065,species,Black-capped Chickadee,Poecile atricapillus,5,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-180,6145,species,Lesser Yellowlegs,Tringa flavipes,3,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-181,501,species,Northern Shoveler,Spatula clypeata,4,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-182,455,species,Wood Duck,Aix sponsa,4,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
-183,27295,species,Winter Wren,Troglodytes hiemalis,2,Cheswick Park,US-VA,05 Apr 2015,L2823311,S22709310,,1
-184,21624,species,Common Raven,Corvus corax,2,Cat Heaven,US-VA,25 Mar 2015,L2691232,S22515164,,1
-185,8256,species,Sharp-shinned Hawk,Accipiter striatus,1,Museum of the Confederacy,US-VA,07 Feb 2015,L3355713,S21782530,,1
-186,33973,species,Orange-crowned Warbler,Leiothlypis celata,25,Cat Heaven,US-VA,14 Jan 2015,L2691232,S21491385,,1
-187,26937,species,Red-breasted Nuthatch,Sitta canadensis,3,Cat Heaven,US-VA,02 Dec 2014,L2691232,S20760063,,1
-188,6866,species,Horned Grebe,Podiceps auritus,1,West Creek Lakes,US-VA,22 Nov 2014,L1209885,S20639233,,1
-189,742,species,Bufflehead,Bucephala albeola,30,West Creek Lakes,US-VA,22 Nov 2014,L1209885,S20639233,,1
-190,11126,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,Cat Heaven,US-VA,16 Nov 2014,L2691232,S20574151,,1
-191,27026,species,Brown Creeper,Certhia americana,1,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-192,6855,species,Pied-billed Grebe,Podilymbus podiceps,50,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-193,6521,species,Ring-billed Gull,Larus delawarensis,3,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-194,5500,species,American Coot,Fulica americana,100,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-195,778,species,Ruddy Duck,Oxyura jamaicensis,40,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-196,612,species,Green-winged Teal,Anas crecca,3,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-197,505,species,Gadwall,Mareca strepera,10,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
-198,32595,species,Pine Siskin,Spinus pinus,1,Cat Heaven,US-VA,09 Nov 2014,L2691232,S20495682,,1
-199,32324,species,Purple Finch,Haemorhous purpureus,1,Cat Heaven,US-VA,09 Nov 2014,L2691232,S20495682,,1
-201,673,species,Ring-necked Duck,Aythya collaris,10,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
-202,517,species,American Wigeon,Mareca americana,30,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
-203,485,species,Blue-winged Teal,Spatula discors,20,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
-204,33946,species,Ovenbird,Seiurus aurocapilla,1,Cat Heaven,US-VA,23 Sep 2014,L2691232,S19977863,,1
-205,26932,species,Brown-headed Nuthatch,Sitta pusilla,1,Cat Heaven,US-VA,13 Sep 2014,L2691232,S19818367,,1
-206,33981,species,Nashville Warbler,Leiothlypis ruficapilla,1,Cat Heaven,US-VA,09 Sep 2014,L2691232,S19782852,,1
-207,10306,species,Belted Kingfisher,Megaceryle alcyon,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-208,7634,species,Reddish Egret,Egretta rufescens,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-209,7630,species,Tricolored Heron,Egretta tricolor,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-210,6775,species,Sandwich Tern,Thalasseus sandvicensis,,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-211,6725,species,Black Tern,Chlidonias niger,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-212,6699,species,Least Tern,Sternula antillarum,70,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-213,6622,species,Black Skimmer,Rynchops niger,100,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-215,6232,species,Semipalmated Sandpiper,Calidris pusilla,8,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-216,6231,species,Western Sandpiper,Calidris mauri,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-217,6226,species,Least Sandpiper,Calidris minutilla,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-218,6189,species,Sanderling,Calidris alba,50,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-219,6161,species,Ruddy Turnstone,Arenaria interpres,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-221,6051,species,Marbled Godwit,Limosa fedoa,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-222,5928,species,Wilson's Plover,Anarhynchus wilsonia,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-223,5811,species,Black-bellied Plover,Pluvialis squatarola,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
-224,21091,species,Loggerhead Shrike,Lanius ludovicianus,1,Clearwater Beach/Pier 60 Park,US-FL,26 Aug 2014,L4542281,S19584088,,1
-225,17474,species,Gray Kingbird,Tyrannus dominicensis,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
-226,7591,species,Yellow-crowned Night Heron,Nyctanassa violacea,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
-228,6748,species,Common Tern,Sterna hirundo,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
-229,6731,species,Forster's Tern,Sterna forsteri,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
-230,7315,species,Magnificent Frigatebird,Fregata magnificens,5,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
-231,6789,species,Royal Tern,Thalasseus maximus,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
-232,6057,species,Short-billed Dowitcher,Limnodromus griseus,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
-233,5834,species,Semipalmated Plover,Charadrius semipalmatus,2,Alfred McKethan Park (Pine Island),US-FL,25 Aug 2014,L587449,S19577267,,1
-234,6147,species,Willet,Tringa semipalmata,1,Hudson Beach Park,US-FL,24 Aug 2014,L584788,S19563482,,1
-235,7645,species,Snowy Egret,Egretta thula,,The Preserves at Fairway Oaks,US-FL,24 Aug 2014,L3036414,S19563519,,1
-236,754,species,Hooded Merganser,Lophodytes cucullatus,2,Lowry Park Zoo (do NOT report captive birds),US-FL,19 Aug 2014,L3086509,S19862678,,1
-237,445,species,Muscovy Duck,Cairina moschata,3,Veterans Village,US-FL,18 Aug 2014,L3053279,S19563629,N,1
-238,2243,species,Common Ground Dove,Columbina passerina,2,The Preserves at Fairway Oaks,US-FL,17 Aug 2014,L3036414,S19493640,,1
-239,1274,species,Wild Turkey,Meleagris gallopavo,2,Jay B. Starkey Wilderness Park,US-FL,16 Aug 2014,L225456,S19487409,,1
-240,5697,species,Sandhill Crane,Antigone canadensis,4,Hays Road Town Center,US-FL,16 Aug 2014,L3040286,S19488557,,1
-241,7832,species,Osprey,Pandion haliaetus,1,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
-242,7629,species,Little Blue Heron,Egretta caerulea,2,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
-243,5468,species,Common Gallinule,Gallinula galeata,3,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
-244,575,species,Mottled Duck,Anas fulvigula,1,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
-245,33858,species,Boat-tailed Grackle,Quiscalus major,3,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,,1
-246,7792,species,Brown Pelican,Pelecanus occidentalis,1,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,,1
-247,2031,species,Eurasian Collared-Dove,Streptopelia decaocto,2,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,N,1
-248,7729,species,Great Egret,Ardea alba,15,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
-249,7467,species,Glossy Ibis,Plegadis falcinellus,8,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
-250,7367,species,Anhinga,Anhinga anhinga,1,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
-251,6490,species,Laughing Gull,Leucophaeus atricilla,5,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
-252,7724,species,Western Cattle-Egret,Ardea ibis,1,The Preserves at Fairway Oaks,US-FL,14 Aug 2014,L3036414,S19468341,,1
-253,7462,species,White Ibis,Eudocimus albus,9,The Preserves at Fairway Oaks,US-FL,14 Aug 2014,L3036414,S19468341,,1
-254,34598,species,Blue Grosbeak,Passerina caerulea,3,Glen Allen High School,US-VA,13 Aug 2014,L2751529,S19466750,,1
-255,24187,species,Barn Swallow,Hirundo rustica,2,Glen Allen High School,US-VA,30 May 2014,L2751529,S18637021,,1
-256,34084,species,Blackburnian Warbler,Setophaga fusca,1,Cheswick Park,US-VA,27 May 2014,L2823311,S18586180,,1
-257,34607,species,Indigo Bunting,Passerina cyanea,1,Cat Heaven,US-VA,23 May 2014,L2691232,S18534288,,1
-258,33952,species,Louisiana Waterthrush,Parkesia motacilla,1,Echo Lake Park,US-VA,16 May 2014,L246152,S18420474,,1
-259,28318,species,Gray-cheeked Thrush,Catharus minimus,2,Echo Lake Park,US-VA,16 May 2014,L246152,S18420474,,1
-260,3238,species,Yellow-billed Cuckoo,Coccyzus americanus,1,Meadow Farm/General Sheppard Crump Memorial Park,US-VA,12 May 2014,L718596,S18355033,,1
-261,33953,species,Northern Waterthrush,Parkesia noveboracensis,1,Deep Run Park,US-VA,09 May 2014,L246147,S18302883,,1
-262,16950,species,Acadian Flycatcher,Empidonax virescens,1,Deep Run Park,US-VA,09 May 2014,L246147,S18302883,,1
-263,34557,species,Rose-breasted Grosbeak,Pheucticus ludovicianus,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
-264,34436,species,Scarlet Tanager,Piranga olivacea,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
-265,34218,species,Black-throated Green Warbler,Setophaga virens,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
-266,34141,species,Black-throated Blue Warbler,Setophaga caerulescens,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
-267,34138,species,Blackpoll Warbler,Setophaga striata,2,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
-268,34133,species,Chestnut-sided Warbler,Setophaga pensylvanica,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
-269,33963,species,Prothonotary Warbler,Protonotaria citrea,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
-270,19245,species,Eastern Warbling Vireo,Vireo gilvus,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
-271,33679,species,Orchard Oriole,Icterus spurius,1,Bryan Park,US-VA,05 May 2014,L303334,S18241700,,1
-272,24081,species,Purple Martin,Progne subis,20,Bryan Park,US-VA,05 May 2014,L303334,S18241700,,1
-273,34185,species,Prairie Warbler,Setophaga discolor,1,Glen Allen High School,US-VA,04 May 2014,L2751529,S18218457,,1
-274,34063,species,Northern Parula,Setophaga americana,1,Glen Allen High School,US-VA,04 May 2014,L2751529,S18218457,,1
-275,34058,species,American Redstart,Setophaga ruticilla,1,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
-276,29888,species,Cedar Waxwing,Bombycilla cedrorum,30,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
-277,28324,species,Swainson's Thrush,Catharus ustulatus,2,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
-278,28313,species,Veery,Catharus fuscescens,1,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
-279,19267,species,Red-eyed Vireo,Vireo olivaceus,2,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
-280,17334,species,Great Crested Flycatcher,Myiarchus crinitus,1,Glen Allen High School,US-VA,01 May 2014,L2751529,S18160972,,1
-281,28347,species,Wood Thrush,Hylocichla mustelina,1,Glen Allen High School,US-VA,30 Apr 2014,L2751529,S18151563,,1
-282,6129,species,Solitary Sandpiper,Tringa solitaria,1,Glen Allen High School,US-VA,30 Apr 2014,L2751529,S18150923,,1
-283,33853,species,Common Grackle,Quiscalus quiscula,45,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-284,28000,species,Gray Catbird,Dumetella carolinensis,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-285,27191,species,Northern House Wren,Troglodytes aedon,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-287,24106,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-288,24064,species,Tree Swallow,Tachycineta bicolor,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-289,17472,species,Eastern Kingbird,Tyrannus tyrannus,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-290,8367,species,Bald Eagle,Haliaeetus leucocephalus,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-291,6126,species,Spotted Sandpiper,Actitis macularius,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-292,571,species,American Black Duck,Anas rubripes,,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
-293,16924,species,Eastern Wood-Pewee,Contopus virens,1,Glen Allen High School,US-VA,25 Apr 2014,L2751529,S18076372,,1
-294,7704,species,Green Heron,Butorides virescens,1,Glen Allen High School,US-VA,25 Apr 2014,L2751529,S18076372,,1
-295,28037,species,Brown Thrasher,Toxostoma rufum,1,Glen Allen High School,US-VA,24 Apr 2014,L2751529,S18055637,,1
-296,19165,species,White-eyed Vireo,Vireo griseus,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
-297,11762,species,Pileated Woodpecker,Dryocopus pileatus,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
-298,4802,species,Ruby-throated Hummingbird,Archilochus colubris,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
-299,33244,species,Savannah Sparrow,Passerculus sandwichensis,5,Glen Allen High School,US-VA,22 Apr 2014,L2751529,S18040115,,1
-300,34028,species,Common Yellowthroat,Geothlypis trichas,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
-301,17007,species,Eastern Phoebe,Sayornis phoebe,2,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
-302,7753,species,Great Blue Heron,Ardea herodias,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
-303,7424,species,Double-crested Cormorant,Nannopterum auritum,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
-304,31534,species,House Sparrow,Passer domesticus,5,Vietnam Garden Restaurant,US-VA,19 Apr 2014,L2790039,S17967926,N,1
-305,27123,species,Blue-gray Gnatcatcher,Polioptila caerulea,,Cat Heaven,US-VA,18 Apr 2014,L2691232,S17948271,,1
-306,11427,species,Hairy Woodpecker,Leuconotopicus villosus,1,Cat Heaven,US-VA,18 Apr 2014,L2691232,S17948271,,1
-307,33315,species,Swamp Sparrow,Melospiza georgiana,1,Dunncroft/Caste Point Park,US-VA,16 Apr 2014,L2782325,S17922946,,1
-308,26844,species,Ruby-crowned Kinglet,Corthylio calendula,,Dunncroft/Caste Point Park,US-VA,16 Apr 2014,L2782325,S17922946,,1
-310,34148,species,Palm Warbler,Setophaga palmarum,1,Glen Allen High School,US-VA,11 Apr 2014,L2751529,S17850757,,1
-313,545,species,Mallard,Anas platyrhynchos,1,Glen Allen High School,US-VA,05 Apr 2014,L2751529,S17774246,,1
-314,8910,species,Great Horned Owl,Bubo virginianus,1,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
-315,8506,species,Red-tailed Hawk,Buteo jamaicensis,2,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
-316,7815,species,Turkey Vulture,Cathartes aura,1,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
-317,342,species,Canada Goose,Branta canadensis,3,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
-319,34159,species,Yellow-rumped Warbler,Setophaga coronata,1,Cat Heaven,US-VA,23 Mar 2014,L2691232,S17615868,,1
-320,33002,species,Field Sparrow,Spizella pusilla,1,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
-321,32617,species,American Goldfinch,Spinus tristis,3,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
-322,11199,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
-323,34153,species,Pine Warbler,Setophaga pinus,1,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
-324,21294,species,Blue Jay,Cyanocitta cristata,1,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
-325,11900,species,Northern Flicker,Colaptes auratus,2,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
-326,11400,species,Downy Woodpecker,Dryobates pubescens,1,Cat Heaven,US-VA,13 Mar 2014,L2691232,S17429141,,1
-327,34515,species,Northern Cardinal,Cardinalis cardinalis,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
-328,33201,species,White-throated Sparrow,Zonotrichia albicollis,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
-329,8278,species,Cooper's Hawk,Astur cooperii,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
-330,33099,species,Fox Sparrow,Passerella iliaca,1,Cat Heaven,US-VA,07 Mar 2014,L2691232,S17413228,,1
-331,32990,species,Chipping Sparrow,Spizella passerina,2,Cat Heaven,US-VA,05 Mar 2014,L2691232,S17409794,,1
-332,26889,species,White-breasted Nuthatch,Sitta carolinensis,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
-334,8487,species,Red-shouldered Hawk,Buteo lineatus,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
-335,2412,species,Mourning Dove,Zenaida macroura,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
-336,27348,species,Carolina Wren,Thryothorus ludovicianus,1,Cat Heaven,US-VA,28 Feb 2014,L2691232,S17282560,,1
-337,26848,species,Golden-crowned Kinglet,Regulus satrapa,1,Cat Heaven,US-VA,28 Feb 2014,L2691232,S17282560,,1
-338,33833,species,Brown-headed Cowbird,Molothrus ater,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-339,33779,species,Red-winged Blackbird,Agelaius phoeniceus,1,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-340,33415,species,Eastern Towhee,Pipilo erythrophthalmus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-341,33277,species,Song Sparrow,Melospiza melodia,3,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-342,33124,species,Dark-eyed Junco,Junco hyemalis,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-343,28633,species,American Robin,Turdus migratorius,5,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-344,28333,species,Hermit Thrush,Catharus guttatus,1,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-345,28126,species,Eastern Bluebird,Sialia sialis,3,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-346,28114,species,Northern Mockingbird,Mimus polyglottos,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-347,22160,species,Tufted Titmouse,Baeolophus bicolor,4,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-348,22060,species,Carolina Chickadee,Poecile carolinensis,5,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-349,21570,species,Fish Crow,Corvus ossifragus,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-350,21557,species,American Crow,Corvus brachyrhynchos,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-351,7811,species,Black Vulture,Coragyps atratus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-352,5827,species,Killdeer,Charadrius vociferus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
-38,22075,hybrid,Carolina x Black-capped Chickadee (hybrid),Poecile carolinensis x atricapillus,1,Bealers Ferry Pond,US-VA,12 Jul 2023,L10914481,S150264649,,0
-68,359,hybrid,Domestic goose sp. x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,1,Swan Lake/Shields Lake,US-VA,11 Feb 2022,L2182364,S102428929,X,0
-119,573,hybrid,Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,1,Bryan Park,US-VA,10 Nov 2017,L303334,S40582958,,0
-136,578,hybrid,Mallard x Mottled Duck (hybrid),Anas platyrhynchos x fulvigula,2,Possum Branch Preserve,US-FL,17 Apr 2017,L1015140,S36068194,,0
-20,581,slash,Mallard/Mottled Duck,Anas platyrhynchos/fulvigula,,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,0
-23,33954,slash,Louisiana/Northern Waterthrush,Parkesia motacilla/noveboracensis,1,Cape Charles Natural Area Preserve,US-VA,13 Jul 2024,L598037,S186844183,,0
-51,6356,spuh,shorebird sp.,Charadriiformes sp. (shorebird sp.),200,Edward S. Brinkley Nature Preserve,US-VA,02 Apr 2023,L11333070,S132500404,,0
-54,16997,spuh,Empidonax sp.,Empidonax sp.,3,Pole Green Park,US-VA,29 Sep 2022,L718662,S119669970,,0
-61,708,slash,Greater/Lesser Scaup,Aythya marila/affinis,,Mason Neck SP--Visitors Center,US-VA,13 Mar 2022,L521963,S104745644,,0
-69,33520,spuh,new world sparrow sp.,Passerellidae sp.,,Turkey Island Road,US-VA,16 Jan 2021,L2438994,S79347377,,0
-73,17501,spuh,new world flycatcher sp.,Tyrannidae sp.,1,Leakes Mill Park,US-VA,07 May 2020,L5851856,S69315043,,0
-74,19306,spuh,vireo sp.,Vireo sp.,1,Echo Lake Corner 1,US-VA,28 Apr 2020,L4556911,S68214615,,0
-75,27646,spuh,wren sp.,Troglodytidae sp.,1,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052614,,0
-83,751,slash,Common/Barrow's Goldeneye,Bucephala clangula/islandica,1,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,0
-109,394,spuh,swan sp.,Cygnus sp.,8,George Washington Birthplace National Monument,US-VA,16 Mar 2019,L159307,S53945435,,0
-110,8279,slash,Sharp-shinned/Cooper's Hawk,Accipiter striatus/Astur cooperii,1,Echo Lake Park,US-VA,03 Jan 2019,L246152,S51255444,,0
-165,11934,spuh,woodpecker sp.,Picidae sp.,1,Crewes Channel,US-VA,28 Jan 2017,L1255219,S34017026,,0
-167,35852,spuh,passerine sp.,Passeriformes sp.,1,Hobby Lobby Pond,US-VA,09 Dec 2016,L2453006,S32935028,,0
-168,6619,spuh,gull sp.,Larinae sp.,1,Camp Burke's Mill Pond (Restricted Access),US-VA,19 Nov 2016,L5095167,S32645415,,0
-169,312,domestic,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),100,Swan Lake/Shields Lake,US-VA,08 Nov 2016,L2182364,S32511073,X,0
-200,792,spuh,duck sp.,Anatidae (duck sp.),,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,0
-214,6235,spuh,peep sp.,Calidris sp. (peep sp.),100,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,0
-220,6062,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,0
-227,6803,spuh,tern sp.,Sterninae sp.,5,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,0
-286,24305,spuh,swallow sp.,Hirundinidae sp.,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,0
-309,8573,spuh,Buteo sp.,Buteo sp.,1,Glen Allen High School,US-VA,11 Apr 2014,L2751529,S17845631,,0
-311,21620,spuh,crow sp.,Corvus sp. (crow sp.),4,Glen Allen High School,US-VA,07 Apr 2014,L2751529,S17793791,,0
-312,34397,spuh,new world warbler sp.,Parulidae sp.,1,Glen Allen High School,US-VA,05 Apr 2014,L2751529,S17774246,,0
-318,33944,spuh,blackbird sp.,Icteridae sp.,,Glen Allen High School,US-VA,29 Mar 2014,L2751529,S17684210,,0
-333,8576,spuh,hawk sp.,Accipitridae sp. (hawk sp.),1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,0
+1,21274,species,Steller's Jay,Cyanocitta stelleri,1,"388 S Hemlock St, Cannon Beach US-OR 45.89480, -123.96182",US-OR,22 Jun 2026,L71149652,S361946155,,1
+2,7389,species,Brandt's Cormorant,Urile penicillatus,100,Haystack Rock,US-OR,22 Jun 2026,L548476,S361939950,,1
+3,6404,species,Pigeon Guillemot,Cepphus columba,100,Haystack Rock,US-OR,22 Jun 2026,L548476,S361939950,,1
+4,6378,species,Tufted Puffin,Fratercula cirrhata,3,Haystack Rock,US-OR,22 Jun 2026,L548476,S361939950,,1
+5,5806,species,Black Oystercatcher,Haematopus bachmani,5,Haystack Rock,US-OR,22 Jun 2026,L548476,S361939950,,1
+6,6591,species,California Gull,Larus californicus,2,Cannon Beach,US-OR,22 Jun 2026,L638805,S361945661,,1
+7,6528,species,Western Gull,Larus occidentalis,20,Cannon Beach,US-OR,22 Jun 2026,L638805,S361945661,,1
+8,7391,species,Pelagic Cormorant,Urile pelagicus,1,Edmonds Marina,US-WA,20 Feb 2026,L20643239,S361946318,,1
+9,32310,species,House Finch,Haemorhous mexicanus,1,Cedarbrook Lodge,US-WA,19 Feb 2026,L58764092,S302318788,,1
+10,28249,species,Varied Thrush,Ixoreus naevius,3,Cedarbrook Lodge,US-WA,19 Feb 2026,L58764092,S302318788,,1
+11,33386,species,Spotted Towhee,Pipilo maculatus,2,Cedarbrook Lodge,US-WA,18 Feb 2026,L58764092,S301980939,,1
+12,27288,species,Pacific Wren,Troglodytes pacificus,1,Cedarbrook Lodge,US-WA,18 Feb 2026,L58764092,S301980939,,1
+13,27362,species,Bewick's Wren,Thryomanes bewickii,1,Cedarbrook Lodge,US-WA,17 Feb 2026,L58764092,S301792625,,1
+14,25253,species,Bushtit,Psaltriparus minimus,3,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
+15,4814,species,Anna's Hummingbird,Calypte anna,2,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
+16,748,species,Barrow's Goldeneye,Bucephala islandica,9,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
+17,727,species,Harlequin Duck,Histrionicus histrionicus,8,Seahurst Park,US-WA,16 Feb 2026,L189242,S301601267,,1
+18,27668,species,American Dipper,Cinclus mexicanus,2,Issaquah Salmon Hatchery,US-WA,16 Feb 2026,L8102503,S301600798,,1
+19,6596,species,Glaucous-winged Gull,Larus glaucescens,4,Issaquah Salmon Hatchery,US-WA,16 Feb 2026,L8102503,S301600798,,1
+20,22094,species,Chestnut-backed Chickadee,Poecile rufescens,1,Seward Park,US-WA,16 Feb 2026,L195645,S301600392,,1
+21,19204,species,Hutton's Vireo,Vireo huttoni,1,Seward Park,US-WA,16 Feb 2026,L195645,S301600392,,1
+22,21301,species,Florida Scrub-Jay,Aphelocoma coerulescens,10,Oscar Scherer SP,US-FL,26 Dec 2025,L127350,S290442724,,1
+23,8064,species,Golden Eagle,Aquila chrysaetos,1,Burke's Garden,US-VA,05 Oct 2025,L718354,S277646255,,1
+24,9133,species,Burrowing Owl,Athene cunicularia,6,Rotunda Meadows Prairie,US-FL,22 Apr 2025,L8957295,S228381185,,1
+25,11962,species,Crested Caracara,Caracara plancus,1,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
+26,5533,species,Gray-headed Swamphen,Porphyrio poliocephalus,4,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,N,1
+27,5515,species,Purple Gallinule,Porphyrio martinica,5,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
+29,243,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,10,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,1
+30,13128,species,Nanday Parakeet,Aratinga nenday,9,"1117 Pinellas Bayway S, Saint Petersburg US-FL (27.6759,-82.7256)",US-FL,15 Apr 2025,L42719687,S225978299,N,1
+32,33222,species,Seaside Sparrow,Ammospiza maritima,2,Tangier Island,US-VA,12 Jul 2024,L718758,S186665319,,1
+33,33957,species,Blue-winged Warbler,Vermivora cyanoptera,1,Sunset Hollow,US-VA,02 Jun 2024,L32782310,S179075332,,1
+34,16952,species,Willow Flycatcher,Empidonax traillii,1,Bent Mountain Center (formerly Bent Mountain Elementary School),US-VA,25 May 2024,L718323,S177132255,,1
+35,28321,species,Bicknell's Thrush,Catharus bicknelli,1,Tidewater Arboretum (Virginia Tech Display Gardens),US-VA,18 May 2024,L9397150,S175274194,,1
+36,33972,species,Tennessee Warbler,Leiothlypis peregrina,1,Paul State Forest,US-VA,12 May 2024,L718652,S173932719,,1
+37,33956,species,Golden-winged Warbler,Vermivora chrysoptera,1,Bramble Hill,US-VA,11 May 2024,L14655306,S173435792,,1
+38,33964,species,Swainson's Warbler,Limnothlypis swainsonii,1,Little Stony National Recreation Area,US-VA,04 May 2024,L718574,S172054218,,1
+39,32498,species,Red Crossbill,Loxia curvirostra,1,Montebello Area,US-VA,12 Jan 2024,L718606,S158727674,,1
+40,33310,species,Lincoln's Sparrow,Melospiza lincolnii,1,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
+41,33187,species,White-crowned Sparrow,Zonotrichia leucophrys,2,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
+42,17323,species,Ash-throated Flycatcher,Myiarchus cinerascens,1,Harris Teeter Retention Pond,US-VA,03 Dec 2023,L10356384,S155672828,,1
+43,12114,species,Peregrine Falcon,Falco peregrinus,1,Chesapeake Bay Bridge-Tunnel (Northampton Co.),US-VA,02 Dec 2023,L718370,S155591825,,1
+44,6207,species,Purple Sandpiper,Calidris maritima,3,CBBT--North Chesapeake Island (#4),US-VA,02 Dec 2023,L132239,S155591278,,1
+45,737,species,Black Scoter,Melanitta americana,3,CBBT--North Chesapeake Island (#4),US-VA,02 Dec 2023,L132239,S155591278,,1
+47,8479,species,Broad-winged Hawk,Buteo platypterus,1,"Raymond R. ""Andy"" Guest Jr. Shenandoah River State Park",US-VA,11 Jul 2023,L418815,S144312436,,1
+48,1283,species,Ruffed Grouse,Bonasa umbellus,5,Briery Branch Gap,US-VA,15 Jun 2023,L4225264,S141856481,,1
+49,34006,species,Mourning Warbler,Geothlypis philadelphia,1,Paddy Knob Lookout,US-WV,13 Jun 2023,L718647,S141567263,,1
+50,33564,species,Bobolink,Dolichonyx oryzivorus,,Powhatan State Park,US-VA,10 May 2023,L1085755,S136926420,,1
+51,6064,species,American Woodcock,Scolopax minor,3,Chesterfield State Forest,US-VA,19 Apr 2023,L23696409,S134295770,,1
+52,6606,species,Iceland Gull,Larus glaucoides,1,Leeward Marina,US-VA,07 Apr 2023,L23483189,S133172407,,1
+53,6227,species,Pectoral Sandpiper,Calidris melanotos,1,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
+54,6061,species,Long-billed Dowitcher,Limnodromus scolopaceus,3,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
+55,5770,species,Black-necked Stilt,Himantopus mexicanus,1,Messick Point,US-VA,07 Apr 2023,L2153527,S133214339,,1
+56,7560,species,American Bittern,Botaurus lentiginosus,1,Princess Anne WMA--Whitehurst Tract,US-VA,06 Apr 2023,L473385,S132850574,,1
+57,33221,species,LeConte's Sparrow,Ammospiza leconteii,1,**Back Bay NWR,US-VA,05 Apr 2023,L718307,S132817533,,1
+58,27303,species,Sedge Wren,Cistothorus stellaris,1,**Back Bay NWR,US-VA,05 Apr 2023,L718307,S132817533,,1
+60,7791,species,American White Pelican,Pelecanus erythrorhynchos,50,Hog Island WMA,US-VA,09 Oct 2022,L718515,S120351263,,1
+61,6718,species,Caspian Tern,Hydroprogne caspia,3,Hog Island WMA,US-VA,09 Oct 2022,L718515,S120351263,,1
+63,32943,species,Grasshopper Sparrow,Ammodramus savannarum,1,"stakeout Scissor-tailed Flycatcher, Leedstown Road (2022)",US-VA,17 Jun 2022,L19488644,S113143186,,1
+64,17489,species,Scissor-tailed Flycatcher,Tyrannus forficatus,1,"stakeout Scissor-tailed Flycatcher, Leedstown Road (2022)",US-VA,17 Jun 2022,L19488644,S113143186,,1
+65,24281,species,Cliff Swallow,Petrochelidon pyrrhonota,50,Watkins Bridge Boat Ramp,US-VA,24 Apr 2022,L718723,S107938500,,1
+66,6462,species,Bonaparte's Gull,Chroicocephalus philadelphia,5,Goose Point Recreation Area,US-VA,07 Apr 2022,L718434,S106470204,,1
+67,11426,species,Red-cockaded Woodpecker,Leuconotopicus borealis,4,Big Woods WMA,US-VA,20 Mar 2022,L2908444,S105256365,,1
+68,31883,species,American Pipit,Anthus rubescens,1,Mason Neck SP--Visitors Center,US-VA,13 Mar 2022,L521963,S104745644,,1
+70,22710,species,Horned Lark,Eremophila alpestris,2,Curles Neck Farm (restricted access),US-VA,27 Feb 2022,L1810089,S103874361,,1
+71,8324,species,Northern Harrier,Circus hudsonius,1,Curles Neck Farm (restricted access),US-VA,27 Feb 2022,L1810089,S103874361,,1
+72,741,species,Long-tailed Duck,Clangula hyemalis,2,Grandview Nature Preserve,US-VA,26 Feb 2022,L718480,S103873420,,1
+73,666,species,Canvasback,Aythya valisineria,,York River State Park,US-VA,19 Feb 2022,L718829,S103030582,,1
+74,6512,species,Heermann's Gull,Larus heermanni,1,Hopewell City Marina,US-VA,11 Feb 2022,L5106232,S102447217,,1
+75,17467,species,Western Kingbird,Tyrannus verticalis,1,James River Park--Huguenot Flatwater,US-VA,11 Feb 2022,L2403273,S102447239,,1
+78,512,species,Eurasian Wigeon,Mareca penelope,1,"First Overlook, Henricus Park Road",US-VA,13 Jan 2021,L13265087,S79202815,,1
+79,32085,species,Evening Grosbeak,Hesperiphona vespertina,4,James River Park--Pony Pasture,US-VA,01 Jan 2021,L3542266,S78424594,,1
+80,34083,species,Bay-breasted Warbler,Setophaga castanea,1,Echo Lake Corner 1,US-VA,19 May 2020,L4556911,S69321413,,1
+84,6927,species,Red-throated Loon,Gavia stellata,1,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052665,,1
+85,728,species,Surf Scoter,Melanitta perspicillata,75,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052665,,1
+86,8388,species,Mississippi Kite,Ictinia mississippiensis,2,6 Worthington Ct,US-AR,09 Aug 2019,L9768923,S58858995,,1
+87,32483,species,Redpoll,Acanthis flammea,1,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
+88,6933,species,Common Loon,Gavia immer,2,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
+89,6138,species,Common Redshank,Tringa totanus,5,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
+90,5812,species,European Golden-Plover,Pluvialis apricaria,2,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,1
+92,7397,species,Great Cormorant,Phalacrocorax carbo,2,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+93,7333,species,Northern Gannet,Morus bassanus,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+94,7220,species,Manx Shearwater,Puffinus puffinus,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+95,7046,species,European Storm-Petrel,Hydrobates pelagicus,4,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+96,6449,species,Black-legged Kittiwake,Rissa tridactyla,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+97,6424,species,Common Murre,Uria aalge,3,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+98,6379,species,Atlantic Puffin,Fratercula arctica,,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+99,6361,species,Parasitic Jaeger,Stercorarius parasiticus,2,Faxaflói (Reykjavík whalewatching pelagics),IS-1,17 Jul 2019,L3893734,S58674225,,1
+100,7090,species,Northern Fulmar,Fulmarus glacialis,4,Reykjavíkurhöfn (harbour),IS-1,17 Jul 2019,L1104110,S58674293,,1
+101,715,species,Common Eider,Somateria mollissima,8,Reykjavíkurhöfn (harbour),IS-1,17 Jul 2019,L1104110,S58674293,,1
+102,31853,species,Meadow Pipit,Anthus pratensis,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
+103,27813,species,European Starling,Sturnus vulgaris,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
+104,6121,species,Red-necked Phalarope,Phalaropus lobatus,1,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
+105,6099,species,Common Snipe,Gallinago gallinago,1,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
+106,5831,species,Common Ringed Plover,Charadrius hiaticula,3,Reykjavík--Vatnsmýrin,IS-1,16 Jul 2019,L1309348,S58669492,,1
+107,31720,species,White Wagtail,Motacilla alba,3,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+108,28497,species,Redwing,Turdus iliacus,5,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+109,6733,species,Arctic Tern,Sterna paradisaea,,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+110,6545,species,European Herring Gull,Larus argentatus,1,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+111,6474,species,Black-headed Gull,Chroicocephalus ridibundus,,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+112,1853,species,Rock Pigeon,Columba livia,7,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+113,687,species,Tufted Duck,Aythya fuligula,15,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+114,390,species,Whooper Swan,Cygnus cygnus,1,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+115,275,species,Graylag Goose,Anser anser,30,Reykjavík--Tjörnin pond,IS-1,16 Jul 2019,L1025679,S58669465,,1
+116,3492,species,Common Nighthawk,Chordeiles minor,1,The Diamond,US-VA,17 May 2019,L4624463,S56426694,,1
+119,3614,species,Eastern Whip-poor-will,Antrostomus vociferus,6,Sherando Lake,US-VA,25 Jun 2018,L718730,S46889585,,1
+120,34061,species,Cerulean Warbler,Setophaga cerulea,11,Peaks of Otter Recreation Area,US-VA,20 Jun 2018,L718653,S46890157,,1
+121,34346,species,Wilson's Warbler,Cardellina pusilla,2,Echo Lake Park,US-VA,12 May 2018,L246152,S45610294,,1
+122,11145,species,Red-headed Woodpecker,Melanerpes erythrocephalus,3,Deep Run Park,US-VA,09 May 2018,L246147,S45610384,,1
+123,34060,species,Cape May Warbler,Setophaga tigrina,1,Cheswick Park,US-VA,08 May 2018,L2823311,S45471071,,1
+124,331,species,Cackling Goose,Branta hutchinsii,7,Swan Lake/Shields Lake,US-VA,17 Dec 2017,L2182364,S41156218,,1
+125,700,species,Lesser Scaup,Aythya affinis,2,Sleep Inn Ponds,US-VA,05 Dec 2017,L4280384,S40928253,,1
+126,314,species,Brant,Branta bernicla,1,Walmart Ponds (Colonial Heights),US-VA,05 Dec 2017,L736979,S40923976,,1
+128,8866,species,Eastern Screech-Owl,Megascops asio,2,Great Dismal Swamp NWR--Lake Drummond,US-VA,23 Sep 2017,L771078,S39393629,,1
+129,16949,species,Yellow-bellied Flycatcher,Empidonax flaviventris,1,Powhatan State Park,US-VA,11 Sep 2017,L1085755,S39131742,,1
+130,3896,species,Chimney Swift,Chaetura pelagica,9,Echo Lake Corner 1,US-VA,05 Aug 2017,L4556911,S38486816,,1
+131,1026,species,Northern Bobwhite,Colinus virginianus,1,Powhatan State Park,US-VA,28 Jun 2017,L1085755,S37867507,,1
+132,33559,species,Yellow-breasted Chat,Icteria virens,2,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
+133,17494,species,Fork-tailed Flycatcher,Tyrannus savana,1,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
+134,7565,species,Least Bittern,Botaurus exilis,2,Back Bay NWR--Boardwalk,US-VA,20 Jun 2017,L2054871,S37707892,,1
+135,34079,species,Magnolia Warbler,Setophaga magnolia,1,Grayson Highlands State Park Twin Pinnacles Trail,US-VA,28 May 2017,L5907662,S37448143,,1
+136,16963,species,Least Flycatcher,Empidonax minimus,1,Grayson Highlands Hickory Ridge Campground Group Site,US-VA,27 May 2017,L5907562,S37448658,,1
+137,34344,species,Canada Warbler,Cardellina canadensis,1,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,16 May 2017,L207180,S36969426,,1
+138,33568,species,Eastern Meadowlark,Sturnella magna,1,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,16 May 2017,L207180,S36969426,,1
+139,5671,species,Limpkin,Aramus guarauna,5,Lettuce Lake County Park,US-FL,17 Apr 2017,L127337,S36091358,,1
+140,6192,species,Dunlin,Calidris alpina,,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
+141,6166,species,Red Knot,Calidris canutus,,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
+142,5799,species,American Oystercatcher,Haematopus palliatus,2,Ben T. Davis Beach,US-FL,17 Apr 2017,L451062,S36067867,,1
+143,6104,species,Wilson's Snipe,Gallinago delicata,1,Possum Branch Preserve,US-FL,17 Apr 2017,L1015140,S36068194,,1
+145,7306,species,Wood Stork,Mycteria americana,20,Embassy Drive Rookery,US-FL,14 Apr 2017,L2617326,S36023113,,1
+146,34057,species,Hooded Warbler,Setophaga citrina,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
+147,33950,species,Worm-eating Warbler,Helmitheros vermivorum,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
+148,19226,species,Blue-headed Vireo,Vireo solitarius,1,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,,1
+149,12819,species,Monk Parakeet,Myiopsitta monachus,2,Dunedin Hammock City Park,US-FL,13 Apr 2017,L127326,S35935977,N,1
+150,7600,species,Black-crowned Night Heron,Nycticorax nycticorax,1,Gulf Harbors Golf Course (NOW CLOSED),US-FL,12 Apr 2017,L1516961,S35911078,,1
+151,27329,species,Marsh Wren,Cistothorus palustris,2,Boy Scout Preserve (Green Key Rd),US-FL,12 Apr 2017,L1427496,S35910741,,1
+152,5276,species,Clapper Rail,Rallus crepitans,1,Boy Scout Preserve (Green Key Rd),US-FL,12 Apr 2017,L1427496,S35910741,,1
+153,2389,species,White-winged Dove,Zenaida asiatica,1,Robert K. Rees Memorial Park,US-FL,11 Apr 2017,L127314,S35892128,,1
+154,34432,species,Summer Tanager,Piranga rubra,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,,1
+155,19220,species,Yellow-throated Vireo,Vireo flavifrons,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,,1
+156,1573,species,Indian Peafowl,Pavo cristatus,1,Aripeka Sandhills Preserve,US-FL,11 Apr 2017,L1011494,S35882699,P,1
+157,7921,species,Swallow-tailed Kite,Elanoides forficatus,1,The Preserves at Fairway Oaks,US-FL,09 Apr 2017,L3036414,S35825510,,1
+158,9219,species,Barred Owl,Strix varia,2,Cheswick Park,US-VA,30 Mar 2017,L2823311,S35549449,,1
+159,34171,species,Yellow-throated Warbler,Setophaga dominica,1,Camp Skimino (Restricted Access),US-VA,25 Mar 2017,L5612432,S35411790,,1
+160,33095,species,American Tree Sparrow,Spizelloides arborea,5,Rocky River Reservation--Nature Center Trails,US-OH,19 Feb 2017,L805099,S34534658,,1
+161,12028,species,American Kestrel,Falco sparverius,1,"Wendy Park, Whiskey Island",US-OH,17 Feb 2017,L284586,S34639949,,1
+162,770,species,Red-breasted Merganser,Mergus serrator,3,"Wendy Park, Whiskey Island",US-OH,17 Feb 2017,L284586,S34639949,,1
+163,762,species,Common Merganser,Mergus merganser,4,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
+164,743,species,Common Goldeneye,Bucephala clangula,2,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
+165,694,species,Greater Scaup,Aythya marila,1,Lakefront Reservation--Edgewater Park,US-OH,17 Feb 2017,L358766,S34639778,,1
+166,6576,species,Lesser Black-backed Gull,Larus fuscus,5,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
+167,6566,species,Glaucous Gull,Larus hyperboreus,1,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
+168,6562,species,Great Black-backed Gull,Larus marinus,20,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
+169,6539,species,American Herring Gull,Larus smithsonianus,,Brown's Island,US-VA,02 Feb 2017,L619779,S34139687,,1
+170,34621,species,Painted Bunting,Passerina ciris,1,James River Park--Belle Isle,US-VA,02 Feb 2017,L618942,S34119885,,1
+171,667,species,Redhead,Aythya americana,1,Mid-Lothian Mines Park--Loch Lothian,US-VA,28 Jan 2017,L2462917,S34017426,,1
+172,594,species,Northern Pintail,Anas acuta,,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,28 Jan 2017,L207180,S34017151,,1
+174,267,species,Snow Goose,Anser caerulescens,,Turkey Island Road,US-VA,28 Jan 2017,L2438994,S34016554,,1
+178,3594,species,Chuck-will's-widow,Antrostomus carolinensis,1,Camp T. Brady Saunders (Restricted Access),US-VA,14 May 2016,L4605450,S29686563,,1
+179,33962,species,Black-and-white Warbler,Mniotilta varia,1,Echo Lake Corner 1,US-VA,02 May 2016,L4556911,S29361469,,1
+180,7533,species,Roseate Spoonbill,Platalea ajaja,1,Anclote Key Preserve SP--North end of Anclote Key,US-FL,21 Aug 2015,L687592,S24713550,,1
+181,5941,species,Snowy Plover,Anarhynchus nivosus,5,Anclote Key Preserve SP--North end of Anclote Key,US-FL,21 Aug 2015,L687592,S24713550,,1
+182,6154,species,Greater Yellowlegs,Tringa melanoleuca,1,Glen Allen High School,US-VA,04 Jun 2015,L2751529,S23848012,,1
+183,34087,species,Northern Yellow Warbler,Setophaga aestiva,1,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+184,33848,species,Rusty Blackbird,Euphagus carolinus,15,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+185,33770,species,Baltimore Oriole,Icterus galbula,2,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+186,24051,species,Bank Swallow,Riparia riparia,5,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+187,22065,species,Black-capped Chickadee,Poecile atricapillus,5,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+188,6145,species,Lesser Yellowlegs,Tringa flavipes,3,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+189,501,species,Northern Shoveler,Spatula clypeata,4,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+190,455,species,Wood Duck,Aix sponsa,4,Sandy Ridge Reservation,US-OH,02 May 2015,L213276,S23234536,,1
+191,27295,species,Winter Wren,Troglodytes hiemalis,2,Cheswick Park,US-VA,05 Apr 2015,L2823311,S22709310,,1
+192,21624,species,Common Raven,Corvus corax,2,Cat Heaven,US-VA,25 Mar 2015,L2691232,S22515164,,1
+193,8256,species,Sharp-shinned Hawk,Accipiter striatus,1,Museum of the Confederacy,US-VA,07 Feb 2015,L3355713,S21782530,,1
+194,33973,species,Orange-crowned Warbler,Leiothlypis celata,25,Cat Heaven,US-VA,14 Jan 2015,L2691232,S21491385,,1
+195,26937,species,Red-breasted Nuthatch,Sitta canadensis,3,Cat Heaven,US-VA,02 Dec 2014,L2691232,S20760063,,1
+196,6866,species,Horned Grebe,Podiceps auritus,1,West Creek Lakes,US-VA,22 Nov 2014,L1209885,S20639233,,1
+197,742,species,Bufflehead,Bucephala albeola,30,West Creek Lakes,US-VA,22 Nov 2014,L1209885,S20639233,,1
+198,11126,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,Cat Heaven,US-VA,16 Nov 2014,L2691232,S20574151,,1
+199,27026,species,Brown Creeper,Certhia americana,1,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+200,6855,species,Pied-billed Grebe,Podilymbus podiceps,50,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+201,6521,species,Ring-billed Gull,Larus delawarensis,3,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+202,5500,species,American Coot,Fulica americana,100,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+203,778,species,Ruddy Duck,Oxyura jamaicensis,40,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+204,612,species,Green-winged Teal,Anas crecca,3,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+205,505,species,Gadwall,Mareca strepera,10,Swan Lake/Shields Lake,US-VA,12 Nov 2014,L2182364,S20574112,,1
+206,32595,species,Pine Siskin,Spinus pinus,1,Cat Heaven,US-VA,09 Nov 2014,L2691232,S20495682,,1
+207,32324,species,Purple Finch,Haemorhous purpureus,1,Cat Heaven,US-VA,09 Nov 2014,L2691232,S20495682,,1
+209,673,species,Ring-necked Duck,Aythya collaris,10,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
+210,517,species,American Wigeon,Mareca americana,30,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
+211,485,species,Blue-winged Teal,Spatula discors,20,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,1
+212,33946,species,Ovenbird,Seiurus aurocapilla,1,Cat Heaven,US-VA,23 Sep 2014,L2691232,S19977863,,1
+213,26932,species,Brown-headed Nuthatch,Sitta pusilla,1,Cat Heaven,US-VA,13 Sep 2014,L2691232,S19818367,,1
+214,33981,species,Nashville Warbler,Leiothlypis ruficapilla,1,Cat Heaven,US-VA,09 Sep 2014,L2691232,S19782852,,1
+215,10306,species,Belted Kingfisher,Megaceryle alcyon,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+216,7634,species,Reddish Egret,Egretta rufescens,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+217,7630,species,Tricolored Heron,Egretta tricolor,1,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+218,6775,species,Sandwich Tern,Thalasseus sandvicensis,,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+219,6725,species,Black Tern,Chlidonias niger,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+220,6699,species,Least Tern,Sternula antillarum,70,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+221,6622,species,Black Skimmer,Rynchops niger,100,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+223,6232,species,Semipalmated Sandpiper,Calidris pusilla,8,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+224,6231,species,Western Sandpiper,Calidris mauri,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+225,6226,species,Least Sandpiper,Calidris minutilla,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+226,6189,species,Sanderling,Calidris alba,50,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+227,6161,species,Ruddy Turnstone,Arenaria interpres,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+229,6051,species,Marbled Godwit,Limosa fedoa,20,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+230,5928,species,Wilson's Plover,Anarhynchus wilsonia,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+231,5811,species,Black-bellied Plover,Pluvialis squatarola,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,1
+232,21091,species,Loggerhead Shrike,Lanius ludovicianus,1,Clearwater Beach/Pier 60 Park,US-FL,26 Aug 2014,L4542281,S19584088,,1
+233,17474,species,Gray Kingbird,Tyrannus dominicensis,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
+234,7591,species,Yellow-crowned Night Heron,Nyctanassa violacea,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
+236,6748,species,Common Tern,Sterna hirundo,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
+237,6731,species,Forster's Tern,Sterna forsteri,2,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,1
+238,7315,species,Magnificent Frigatebird,Fregata magnificens,5,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
+239,6789,species,Royal Tern,Thalasseus maximus,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
+240,6057,species,Short-billed Dowitcher,Limnodromus griseus,1,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19577319,,1
+241,5834,species,Semipalmated Plover,Charadrius semipalmatus,2,Alfred McKethan Park (Pine Island),US-FL,25 Aug 2014,L587449,S19577267,,1
+242,6147,species,Willet,Tringa semipalmata,1,Hudson Beach Park,US-FL,24 Aug 2014,L584788,S19563482,,1
+243,7645,species,Snowy Egret,Egretta thula,,The Preserves at Fairway Oaks,US-FL,24 Aug 2014,L3036414,S19563519,,1
+244,754,species,Hooded Merganser,Lophodytes cucullatus,2,Lowry Park Zoo (do NOT report captive birds),US-FL,19 Aug 2014,L3086509,S19862678,,1
+245,445,species,Muscovy Duck,Cairina moschata,3,Veterans Village,US-FL,18 Aug 2014,L3053279,S19563629,N,1
+246,2243,species,Common Ground Dove,Columbina passerina,2,The Preserves at Fairway Oaks,US-FL,17 Aug 2014,L3036414,S19493640,,1
+247,1274,species,Wild Turkey,Meleagris gallopavo,2,Jay B. Starkey Wilderness Park,US-FL,16 Aug 2014,L225456,S19487409,,1
+248,5697,species,Sandhill Crane,Antigone canadensis,4,Hays Road Town Center,US-FL,16 Aug 2014,L3040286,S19488557,,1
+249,7832,species,Osprey,Pandion haliaetus,1,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
+250,7629,species,Little Blue Heron,Egretta caerulea,2,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
+251,5468,species,Common Gallinule,Gallinula galeata,3,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
+252,575,species,Mottled Duck,Anas fulvigula,1,Veterans Memorial Park,US-FL,16 Aug 2014,L582113,S19487267,,1
+253,33858,species,Boat-tailed Grackle,Quiscalus major,3,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,,1
+254,7792,species,Brown Pelican,Pelecanus occidentalis,1,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,,1
+255,2031,species,Eurasian Collared-Dove,Streptopelia decaocto,2,Hudson Beach Park,US-FL,14 Aug 2014,L584788,S19474317,N,1
+256,7729,species,Great Egret,Ardea alba,15,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
+257,7467,species,Glossy Ibis,Plegadis falcinellus,8,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
+258,7367,species,Anhinga,Anhinga anhinga,1,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
+259,6490,species,Laughing Gull,Leucophaeus atricilla,5,Embassy Drive Rookery,US-FL,14 Aug 2014,L2617326,S19474255,,1
+260,7724,species,Western Cattle-Egret,Ardea ibis,1,The Preserves at Fairway Oaks,US-FL,14 Aug 2014,L3036414,S19468341,,1
+261,7462,species,White Ibis,Eudocimus albus,9,The Preserves at Fairway Oaks,US-FL,14 Aug 2014,L3036414,S19468341,,1
+262,34598,species,Blue Grosbeak,Passerina caerulea,3,Glen Allen High School,US-VA,13 Aug 2014,L2751529,S19466750,,1
+263,24187,species,Barn Swallow,Hirundo rustica,2,Glen Allen High School,US-VA,30 May 2014,L2751529,S18637021,,1
+264,34084,species,Blackburnian Warbler,Setophaga fusca,1,Cheswick Park,US-VA,27 May 2014,L2823311,S18586180,,1
+265,34607,species,Indigo Bunting,Passerina cyanea,1,Cat Heaven,US-VA,23 May 2014,L2691232,S18534288,,1
+266,33952,species,Louisiana Waterthrush,Parkesia motacilla,1,Echo Lake Park,US-VA,16 May 2014,L246152,S18420474,,1
+267,28318,species,Gray-cheeked Thrush,Catharus minimus,2,Echo Lake Park,US-VA,16 May 2014,L246152,S18420474,,1
+268,3238,species,Yellow-billed Cuckoo,Coccyzus americanus,1,Meadow Farm/General Sheppard Crump Memorial Park,US-VA,12 May 2014,L718596,S18355033,,1
+269,33953,species,Northern Waterthrush,Parkesia noveboracensis,1,Deep Run Park,US-VA,09 May 2014,L246147,S18302883,,1
+270,16950,species,Acadian Flycatcher,Empidonax virescens,1,Deep Run Park,US-VA,09 May 2014,L246147,S18302883,,1
+271,34557,species,Rose-breasted Grosbeak,Pheucticus ludovicianus,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
+272,34436,species,Scarlet Tanager,Piranga olivacea,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
+273,34218,species,Black-throated Green Warbler,Setophaga virens,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
+274,34141,species,Black-throated Blue Warbler,Setophaga caerulescens,1,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
+275,34138,species,Blackpoll Warbler,Setophaga striata,2,Cheswick Park,US-VA,08 May 2014,L2823311,S18296813,,1
+276,34133,species,Chestnut-sided Warbler,Setophaga pensylvanica,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
+277,33963,species,Prothonotary Warbler,Protonotaria citrea,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
+278,19245,species,Eastern Warbling Vireo,Vireo gilvus,1,Echo Lake Park,US-VA,05 May 2014,L246152,S18241630,,1
+279,33679,species,Orchard Oriole,Icterus spurius,1,Bryan Park,US-VA,05 May 2014,L303334,S18241700,,1
+280,24081,species,Purple Martin,Progne subis,20,Bryan Park,US-VA,05 May 2014,L303334,S18241700,,1
+281,34185,species,Prairie Warbler,Setophaga discolor,1,Glen Allen High School,US-VA,04 May 2014,L2751529,S18218457,,1
+282,34063,species,Northern Parula,Setophaga americana,1,Glen Allen High School,US-VA,04 May 2014,L2751529,S18218457,,1
+283,34058,species,American Redstart,Setophaga ruticilla,1,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
+284,29888,species,Cedar Waxwing,Bombycilla cedrorum,30,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
+285,28324,species,Swainson's Thrush,Catharus ustulatus,2,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
+286,28313,species,Veery,Catharus fuscescens,1,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
+287,19267,species,Red-eyed Vireo,Vireo olivaceus,2,Cheswick Park,US-VA,02 May 2014,L2823311,S18196312,,1
+288,17334,species,Great Crested Flycatcher,Myiarchus crinitus,1,Glen Allen High School,US-VA,01 May 2014,L2751529,S18160972,,1
+289,28347,species,Wood Thrush,Hylocichla mustelina,1,Glen Allen High School,US-VA,30 Apr 2014,L2751529,S18151563,,1
+290,6129,species,Solitary Sandpiper,Tringa solitaria,1,Glen Allen High School,US-VA,30 Apr 2014,L2751529,S18150923,,1
+291,33853,species,Common Grackle,Quiscalus quiscula,45,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+292,28000,species,Gray Catbird,Dumetella carolinensis,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+293,27191,species,Northern House Wren,Troglodytes aedon,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+295,24106,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+296,24064,species,Tree Swallow,Tachycineta bicolor,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+297,17472,species,Eastern Kingbird,Tyrannus tyrannus,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+298,8367,species,Bald Eagle,Haliaeetus leucocephalus,1,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+299,6126,species,Spotted Sandpiper,Actitis macularius,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+300,571,species,American Black Duck,Anas rubripes,,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,1
+301,16924,species,Eastern Wood-Pewee,Contopus virens,1,Glen Allen High School,US-VA,25 Apr 2014,L2751529,S18076372,,1
+302,7704,species,Green Heron,Butorides virescens,1,Glen Allen High School,US-VA,25 Apr 2014,L2751529,S18076372,,1
+303,28037,species,Brown Thrasher,Toxostoma rufum,1,Glen Allen High School,US-VA,24 Apr 2014,L2751529,S18055637,,1
+304,19165,species,White-eyed Vireo,Vireo griseus,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
+305,11762,species,Pileated Woodpecker,Dryocopus pileatus,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
+306,4802,species,Ruby-throated Hummingbird,Archilochus colubris,1,Cat Heaven,US-VA,23 Apr 2014,L2691232,S18053889,,1
+307,33244,species,Savannah Sparrow,Passerculus sandwichensis,5,Glen Allen High School,US-VA,22 Apr 2014,L2751529,S18040115,,1
+308,34028,species,Common Yellowthroat,Geothlypis trichas,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
+309,17007,species,Eastern Phoebe,Sayornis phoebe,2,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
+310,7753,species,Great Blue Heron,Ardea herodias,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
+311,7424,species,Double-crested Cormorant,Nannopterum auritum,1,Echo Lake Park,US-VA,20 Apr 2014,L246152,S17979023,,1
+312,31534,species,House Sparrow,Passer domesticus,5,Vietnam Garden Restaurant,US-VA,19 Apr 2014,L2790039,S17967926,N,1
+313,27123,species,Blue-gray Gnatcatcher,Polioptila caerulea,,Cat Heaven,US-VA,18 Apr 2014,L2691232,S17948271,,1
+314,11427,species,Hairy Woodpecker,Leuconotopicus villosus,1,Cat Heaven,US-VA,18 Apr 2014,L2691232,S17948271,,1
+315,33315,species,Swamp Sparrow,Melospiza georgiana,1,Dunncroft/Caste Point Park,US-VA,16 Apr 2014,L2782325,S17922946,,1
+316,26844,species,Ruby-crowned Kinglet,Corthylio calendula,,Dunncroft/Caste Point Park,US-VA,16 Apr 2014,L2782325,S17922946,,1
+318,34148,species,Palm Warbler,Setophaga palmarum,1,Glen Allen High School,US-VA,11 Apr 2014,L2751529,S17850757,,1
+321,545,species,Mallard,Anas platyrhynchos,1,Glen Allen High School,US-VA,05 Apr 2014,L2751529,S17774246,,1
+322,8910,species,Great Horned Owl,Bubo virginianus,1,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
+323,8506,species,Red-tailed Hawk,Buteo jamaicensis,2,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
+324,7815,species,Turkey Vulture,Cathartes aura,1,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
+325,342,species,Canada Goose,Branta canadensis,3,Glen Allen High School,US-VA,01 Apr 2014,L2751529,S17724044,,1
+327,34159,species,Yellow-rumped Warbler,Setophaga coronata,1,Cat Heaven,US-VA,23 Mar 2014,L2691232,S17615868,,1
+328,33002,species,Field Sparrow,Spizella pusilla,1,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
+329,32617,species,American Goldfinch,Spinus tristis,3,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
+330,11199,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Cat Heaven,US-VA,17 Mar 2014,L2691232,S17506018,,1
+331,34153,species,Pine Warbler,Setophaga pinus,1,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
+332,21294,species,Blue Jay,Cyanocitta cristata,1,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
+333,11900,species,Northern Flicker,Colaptes auratus,2,Glen Allen High School,US-VA,14 Mar 2014,L2751529,S17428983,,1
+334,11400,species,Downy Woodpecker,Dryobates pubescens,1,Cat Heaven,US-VA,13 Mar 2014,L2691232,S17429141,,1
+335,34515,species,Northern Cardinal,Cardinalis cardinalis,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
+336,33201,species,White-throated Sparrow,Zonotrichia albicollis,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
+337,8278,species,Cooper's Hawk,Astur cooperii,1,Cat Heaven,US-VA,11 Mar 2014,L2691232,S17413333,,1
+338,33099,species,Fox Sparrow,Passerella iliaca,1,Cat Heaven,US-VA,07 Mar 2014,L2691232,S17413228,,1
+339,32990,species,Chipping Sparrow,Spizella passerina,2,Cat Heaven,US-VA,05 Mar 2014,L2691232,S17409794,,1
+340,26889,species,White-breasted Nuthatch,Sitta carolinensis,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
+342,8487,species,Red-shouldered Hawk,Buteo lineatus,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
+343,2412,species,Mourning Dove,Zenaida macroura,1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,1
+344,27348,species,Carolina Wren,Thryothorus ludovicianus,1,Cat Heaven,US-VA,28 Feb 2014,L2691232,S17282560,,1
+345,26848,species,Golden-crowned Kinglet,Regulus satrapa,1,Cat Heaven,US-VA,28 Feb 2014,L2691232,S17282560,,1
+346,33833,species,Brown-headed Cowbird,Molothrus ater,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+347,33779,species,Red-winged Blackbird,Agelaius phoeniceus,1,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+348,33415,species,Eastern Towhee,Pipilo erythrophthalmus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+349,33277,species,Song Sparrow,Melospiza melodia,3,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+350,33124,species,Dark-eyed Junco,Junco hyemalis,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+351,28633,species,American Robin,Turdus migratorius,5,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+352,28333,species,Hermit Thrush,Catharus guttatus,1,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+353,28126,species,Eastern Bluebird,Sialia sialis,3,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+354,28114,species,Northern Mockingbird,Mimus polyglottos,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+355,22160,species,Tufted Titmouse,Baeolophus bicolor,4,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+356,22060,species,Carolina Chickadee,Poecile carolinensis,5,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+357,21570,species,Fish Crow,Corvus ossifragus,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+358,21557,species,American Crow,Corvus brachyrhynchos,,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+359,7811,species,Black Vulture,Coragyps atratus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+360,5827,species,Killdeer,Charadrius vociferus,2,Glen Allen High School,US-VA,27 Feb 2014,L2751529,S17225155,,1
+46,22075,hybrid,Carolina x Black-capped Chickadee (hybrid),Poecile carolinensis x atricapillus,1,Bealers Ferry Pond,US-VA,12 Jul 2023,L10914481,S150264649,,0
+76,359,hybrid,Domestic goose sp. x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,1,Swan Lake/Shields Lake,US-VA,11 Feb 2022,L2182364,S102428929,X,0
+127,573,hybrid,Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,1,Bryan Park,US-VA,10 Nov 2017,L303334,S40582958,,0
+144,578,hybrid,Mallard x Mottled Duck (hybrid),Anas platyrhynchos x fulvigula,2,Possum Branch Preserve,US-FL,17 Apr 2017,L1015140,S36068194,,0
+28,581,slash,Mallard/Mottled Duck,Anas platyrhynchos/fulvigula,,The Celery Fields,US-FL,21 Apr 2025,L234146,S228047847,,0
+31,33954,slash,Louisiana/Northern Waterthrush,Parkesia motacilla/noveboracensis,1,Cape Charles Natural Area Preserve,US-VA,13 Jul 2024,L598037,S186844183,,0
+59,6356,spuh,shorebird sp.,Charadriiformes sp. (shorebird sp.),200,Edward S. Brinkley Nature Preserve,US-VA,02 Apr 2023,L11333070,S132500404,,0
+62,16997,spuh,Empidonax sp.,Empidonax sp.,3,Pole Green Park,US-VA,29 Sep 2022,L718662,S119669970,,0
+69,708,slash,Greater/Lesser Scaup,Aythya marila/affinis,,Mason Neck SP--Visitors Center,US-VA,13 Mar 2022,L521963,S104745644,,0
+77,33520,spuh,new world sparrow sp.,Passerellidae sp.,,Turkey Island Road,US-VA,16 Jan 2021,L2438994,S79347377,,0
+81,17501,spuh,new world flycatcher sp.,Tyrannidae sp.,1,Leakes Mill Park,US-VA,07 May 2020,L5851856,S69315043,,0
+82,19306,spuh,vireo sp.,Vireo sp.,1,Echo Lake Corner 1,US-VA,28 Apr 2020,L4556911,S68214615,,0
+83,27646,spuh,wren sp.,Troglodytidae sp.,1,Grandview Nature Preserve,US-VA,04 Jan 2020,L718480,S63052614,,0
+91,751,slash,Common/Barrow's Goldeneye,Bucephala clangula/islandica,1,Úlfljótsvatn--skátabúðir (Scout Centre),IS-8,22 Jul 2019,L9729626,S58674558,,0
+117,394,spuh,swan sp.,Cygnus sp.,8,George Washington Birthplace National Monument,US-VA,16 Mar 2019,L159307,S53945435,,0
+118,8279,slash,Sharp-shinned/Cooper's Hawk,Accipiter striatus/Astur cooperii,1,Echo Lake Park,US-VA,03 Jan 2019,L246152,S51255444,,0
+173,11934,spuh,woodpecker sp.,Picidae sp.,1,Crewes Channel,US-VA,28 Jan 2017,L1255219,S34017026,,0
+175,35852,spuh,passerine sp.,Passeriformes sp.,1,Hobby Lobby Pond,US-VA,09 Dec 2016,L2453006,S32935028,,0
+176,6619,spuh,gull sp.,Larinae sp.,1,Camp Burke's Mill Pond (Restricted Access),US-VA,19 Nov 2016,L5095167,S32645415,,0
+177,312,domestic,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),100,Swan Lake/Shields Lake,US-VA,08 Nov 2016,L2182364,S32511073,X,0
+208,792,spuh,duck sp.,Anatidae (duck sp.),,West Creek Lakes,US-VA,31 Oct 2014,L1209885,S20497024,,0
+222,6235,spuh,peep sp.,Calidris sp. (peep sp.),100,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,0
+228,6062,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,10,Fort De Soto Park,US-FL,27 Aug 2014,L127332,S19643219,,0
+235,6803,spuh,tern sp.,Sterninae sp.,5,Robert K. Rees Memorial Park,US-FL,25 Aug 2014,L127314,S19627528,,0
+294,24305,spuh,swallow sp.,Hirundinidae sp.,2,Lake Rooty,US-VA,25 Apr 2014,L2521664,S18081289,,0
+317,8573,spuh,Buteo sp.,Buteo sp.,1,Glen Allen High School,US-VA,11 Apr 2014,L2751529,S17845631,,0
+319,21620,spuh,crow sp.,Corvus sp. (crow sp.),4,Glen Allen High School,US-VA,07 Apr 2014,L2751529,S17793791,,0
+320,34397,spuh,new world warbler sp.,Parulidae sp.,1,Glen Allen High School,US-VA,05 Apr 2014,L2751529,S17774246,,0
+326,33944,spuh,blackbird sp.,Icteridae sp.,,Glen Allen High School,US-VA,29 Mar 2014,L2751529,S17684210,,0
+341,8576,spuh,hawk sp.,Accipitridae sp. (hawk sp.),1,Glen Allen High School,US-VA,02 Mar 2014,L2751529,S17282669,,0

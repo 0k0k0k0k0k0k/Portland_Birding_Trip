@@ -51,6 +51,15 @@ assign("fetch_hotspot_observations", function(loc_id, api_key, back_days) {
   observations_by_hotspot[[loc_id]]
 }, envir = .GlobalEnv)
 
+original_zone_species <- fetch_zone_species_observations
+on.exit(assign("fetch_zone_species_observations", original_zone_species, envir = .GlobalEnv), add = TRUE)
+assign("fetch_zone_species_observations", function(zone_row, species_code, api_key, back_days) {
+  rbind(
+    make_observations("selected", "A"),
+    make_observations("selected", "B")
+  )
+}, envir = .GlobalEnv)
+
 old_key <- Sys.getenv("EBIRD_API_KEY", unset = NA_character_)
 on.exit({
   if (is.na(old_key)) Sys.unsetenv("EBIRD_API_KEY") else Sys.setenv(EBIRD_API_KEY = old_key)
@@ -59,6 +68,12 @@ Sys.setenv(EBIRD_API_KEY = "test-key")
 
 shiny::testServer(server, {
   session$setInputs(lookback = "3")
+  load_species_hotspots("selected")
+  stopifnot(identical(unique(calls), c("A", "B")))
+  stopifnot(all(c("A|3", "B|3") %in% names(hotspot_observation_cache())))
+  calls <<- character()
+  hotspot_observation_cache(list())
+
   hotspot_results(spots)
   session$setInputs(shortlist_toggle = "A")
   stopifnot(identical(shortlist()$locId, "A"))

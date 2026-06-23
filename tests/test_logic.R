@@ -1,7 +1,7 @@
 source(file.path("R", "lifer_finder.R"))
 
 life <- read_life_list(file.path("data", "ebird_world_life_list.csv"))
-stopifnot(nrow(life) == 322L)
+stopifnot(nrow(life) == 330L)
 stopifnot(all(nzchar(life$scientific_name)))
 
 raw <- utils::read.csv(

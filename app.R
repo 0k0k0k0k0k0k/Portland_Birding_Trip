@@ -6,6 +6,11 @@ library(httr2)
 source(file.path("R", "lifer_finder.R"), local = TRUE)
 source(file.path("R", "comparison_report.R"), local = TRUE)
 life_list_path <- file.path("data", "ebird_world_life_list.csv")
+APP_TIMEZONE <- "America/Los_Angeles"
+
+format_app_time <- function(x) {
+  format(x, "%b %d, %I:%M %p", tz = APP_TIMEZONE)
+}
 
 theme <- bs_theme(
   version = 5,
@@ -112,7 +117,7 @@ server <- function(input, output, session) {
         bind_rows(pieces)
       })
       hotspot_results(build_hotspot_details(observations))
-      if (identical(input$hotspot_sort, "lifers")) load_all_hotspot_lifers()
+      load_all_hotspot_lifers()
     }, error = function(e) {
       hotspot_results(build_hotspot_details(empty_observations()))
       showNotification(conditionMessage(e), type = "error", duration = NULL)
@@ -257,7 +262,7 @@ server <- function(input, output, session) {
           class = paste("species-item", if (selected) "selected" else ""),
           onclick = sprintf("Shiny.setInputValue('species_click', '%s', {priority: 'event'}); mobileShowHotspots(); return false;", x$speciesCode[i]),
           span(class = "species-name", x$common_name[i]),
-          span(class = "species-meta", paste("Latest report", format(x$latest_report[i], "%b %d, %I:%M %p")))
+          span(class = "species-meta", paste("Latest report", format_app_time(x$latest_report[i])))
         )
       })
     )
@@ -417,31 +422,29 @@ server <- function(input, output, session) {
       ) {
         lifer_count_text <- "lifers unavailable"
       }
-      other_lifers <- NULL
-      if (expanded) {
-        key <- hotspot_cache_key(loc_id)
-        cached <- hotspot_observation_cache()[[key]]
-        if (isTRUE(hotspot_detail_loading()) && is.null(cached)) {
-          other_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "Loading other lifers…"))
-        } else if (!is.null(hotspot_detail_error())) {
-          other_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "Could not load hotspot lifers."))
-        } else if (!is.null(cached)) {
-          lifers <- build_other_lifers(cached, life_list, selected_species())
-          if (!nrow(lifers)) {
-            other_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "No other potential lifers reported."))
-          } else {
-            other_lifers <- div(
-              class = "other-lifers",
-              div(class = "other-lifers-title", paste(nrow(lifers), "other potential lifers")),
-              lapply(seq_len(nrow(lifers)), function(j) {
-                div(
-                  class = "other-lifer-row",
-                  span(lifers$common_name[j]),
-                  span(class = "other-lifer-time", format(lifers$latest_report[j], "%b %d, %I:%M %p"))
-                )
-              })
-            )
-          }
+      key <- hotspot_cache_key(loc_id)
+      cached <- hotspot_observation_cache()[[key]]
+      hotspot_lifers <- NULL
+      if (isTRUE(hotspot_detail_loading()) && is.null(cached)) {
+        hotspot_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "Loading potential lifers…"))
+      } else if (key %in% hotspot_count_failures()) {
+        hotspot_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "Could not load hotspot lifers."))
+      } else if (!is.null(cached)) {
+        lifers <- build_other_lifers(cached, life_list, exclude_species_code = NULL)
+        if (!nrow(lifers)) {
+          hotspot_lifers <- div(class = "other-lifers", div(class = "other-lifers-empty", "No potential lifers reported here."))
+        } else {
+          hotspot_lifers <- div(
+            class = "other-lifers",
+            div(class = "other-lifers-title", paste(nrow(lifers), "potential lifers here")),
+            lapply(seq_len(nrow(lifers)), function(j) {
+              div(
+                class = "other-lifer-row",
+                span(lifers$common_name[j]),
+                span(class = "other-lifer-time", format_app_time(lifers$latest_report[j]))
+              )
+            })
+          )
         }
       }
       div(
@@ -456,7 +459,7 @@ server <- function(input, output, session) {
             div(
               class = "location-meta",
               paste(c(
-                format(x$obs_time[i], "%b %d, %I:%M %p"),
+                format_app_time(x$obs_time[i]),
                 count_text,
                 paste0("about ", round(x$approx_miles[i]), " mi away"),
                 lifer_count_text
@@ -472,7 +475,7 @@ server <- function(input, output, session) {
             if (shortlisted) "✓" else "+"
           )
         ),
-        other_lifers
+        hotspot_lifers
       )
     }))
   })
